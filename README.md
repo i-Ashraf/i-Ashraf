@@ -1,16 +1,22 @@
-## Hi there 👋
+<center><img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRsNnhmZHU1YnBpczBkOTR1cjBjN3duOTdvaWs4bjYzbHVncjBscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QDRkQtiuugmBHQ4/giphy.gif height =500></center>
+## 🎯 About Me
 
-<!--
-**i-Ashraf/i-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="55%">
 
-Here are some ideas to get you started:
+```javascript
+const ashraf = {
+  education: "MCA @ Integral University, Lucknow",
+  currentCGPA: 8.3,
+  status: "Final Year Student",
+  focus: [
+    "Full Stack Development",
+    "Backend Architecture",
+    "AI/ML Integration"
+  ],
+  currentlyLearning: [
+    "Advanced Node.js",
+    "System Design",
+    "Cloud Architecture"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
